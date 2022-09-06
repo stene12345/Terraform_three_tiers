@@ -1,3 +1,4 @@
 # terraform
 
-My Terraform projects.
+My Terraform projects
+3-tiers applications
